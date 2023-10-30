@@ -85,7 +85,7 @@ result = module1.function_from_module1()
 
 In this example, `my_package` is a Python package containing modules `module1` and `module2`.
 
-`PYPI - Python Package Index is a python repository for all packages to install it we use "pip instal <package-name>"`
+`PYPI - Python Package Index is a open-source python repository for all packages to install it we use "pip install <package-name>"`
 
 
 ## 2. How to Import a Package
