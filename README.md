@@ -23,7 +23,7 @@ Functions provide below advantages:
 - Readability
 - Debugging
 
-
+---
 ### Modules
 
 A module is a Python script containing Python code. It can define functions, classes, and variables that can be used in other Python scripts. Modules help organize and modularize your code, making it more maintainable.
@@ -51,3 +51,8 @@ print(my_module.pi)
 ```
 
 In this case, `my_module` is a Python module containing the `square` function and a variable `pi`.
+
+Modules are group of functions 
+
+Modules provide Re-usabilitty
+
