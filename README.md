@@ -23,6 +23,8 @@ Functions provide below advantages:
 - Readability
 - Debugging
 
+`Functions take input perform required login and return logic`
+
 ---
 ### Modules
 
@@ -52,7 +54,7 @@ print(my_module.pi)
 
 In this case, `my_module` is a Python module containing the `square` function and a variable `pi`.
 
-Modules are group of functions 
+`Modules are group of functions`
 
-Modules provide Re-usabilitty
+`Modules provide Re-usabilitty`
 
