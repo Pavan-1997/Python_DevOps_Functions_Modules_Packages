@@ -85,6 +85,9 @@ result = module1.function_from_module1()
 
 In this example, `my_package` is a Python package containing modules `module1` and `module2`.
 
+`PYPI - Python Package Index is a python repository for all packages to install it we use "pip instal <package-name>"`
+
+
 ## 2. How to Import a Package
 
 Importing a package or module in Python is done using the `import` statement. You can import the entire package, specific modules, or individual functions/variables from a module.
