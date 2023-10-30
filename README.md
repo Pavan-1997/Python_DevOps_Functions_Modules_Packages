@@ -87,6 +87,11 @@ In this example, `my_package` is a Python package containing modules `module1` a
 
 `PYPI - Python Package Index is a open-source python repository for all packages to install it we use "pip install <package-name>"`
 
+```
+pip list
+```
+Gives all the packages installed
+
 
 ## 2. How to Import a Package
 
